@@ -1,2 +1,8 @@
-- 👋 Hi, I’m @kanosy88
+# 👋 Hi, I’m kanosy
 
+## Language i like
+
+- TypeScript
+- Python
+- Lua
+- C#
